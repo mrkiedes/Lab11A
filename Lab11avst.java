@@ -1,11 +1,7 @@
 // Lab11avst.java
 // The "Sieve of Eratosthenes" Program
 // This is the student, starting version of the Lab11a assignment.
-
-
 import java.util.Scanner;
-
-
 public class Lab11avst
 {
 	public static void main(String[] args)
@@ -33,6 +29,3 @@ public class Lab11avst
 	}
 
 }
-
-
-
